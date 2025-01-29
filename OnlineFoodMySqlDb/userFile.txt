@@ -1,0 +1,8 @@
+HlaHlaWing	(admin) 	pas=> 12345
+KoKoMaung	(admin)  	pas=> 12345
+ShewYiOo	(admin)   	pas=> 12345
+NyiMinHtet	(admin) 	pas=> 12345
+SoeMyatMyatHtun (admin)		pas=> 12345
+
+TunTun		(customer)  	pas=> 12345
+MayThuZar	(customer)	pas=> 12345
